@@ -19,6 +19,10 @@ Place the following files under `data/raw/`:
 
 > The folder `data/raw/` is ignored by Git by design (see `.gitignore`).
 
+> Download the dataset from Kaggle:
+- https://www.kaggle.com/competitions/ieee-fraud-detection/data
+
+
 ## Workflow
 - **EDA**: missing values, feature distributions, target imbalance, basic sanity checks  
 - **Preprocessing**: imputation, encoding, scaling (as needed), and train/validation split strategy  
